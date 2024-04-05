@@ -1,0 +1,14 @@
+{
+    "name": "mock-api-assignment",
+    "version": "1.0.0",
+    "description": "Mock REST API with pagination and data generation for Mana Frontend developer assignment",
+    "main": "index.js",
+    "author": "Mana",
+    "license": "MIT",
+    "dependencies": {
+        "@faker-js/faker": "^8.4.1",
+        "cors": "^2.8.5",
+        "express": "^4.17.2",
+        "express-paginate": "^1.0.2"
+    }
+}
