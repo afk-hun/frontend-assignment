@@ -56,7 +56,7 @@ node index.js
 You can use the openapi.yml file to check the API contract if needed (recommended easy way: https://editor.swagger.io) and test the locally running API.
 
 ### Figma design
-TODO
+https://www.figma.com/file/GgSQLms4fEDbELEjuKVMhs/Product-listing-page?type=design&node-id=0%3A1&mode=dev&t=P0K7bESXEcRV61vV-1
 
 ## Judging criteria:
 🔴REQUIRED parts are must-do, we need developers who have strong fundamental knowledge in our core technologies.
